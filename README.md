@@ -1,9 +1,6 @@
 # Zombie Tsunami pour NumWorks
 
-Réécriture complète en C99 (API EADK, application `.nwa`).
-Le zip fourni (`ZombieTsunami-Vita`) est un *loader* PS Vita qui exécute le binaire Android :
-il ne contient pas le code du jeu. Le gameplay a donc été refait à partir des captures et de la
-boucle de jeu d'origine.
+Fait par derim , discord.gg/derim
 
 ## Compiler / installer
 
